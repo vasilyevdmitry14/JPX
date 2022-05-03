@@ -65,6 +65,20 @@ Expected dividend value for ex-right date. This value is recorded 2 business day
 
 ДВ 0105:- зачем тогда пункт а?
 ВП 0105:- чем больше дивиденды, тем сильнее падает акция после отсечки
+=======
+8 Day of the week
+	День недели дня каждого дня
+======	
+9 Log-prices
+	Натуральный логарифм всех цен (Min, Max, Open, Close)
+	Использовать лог-цены для остальных фичей
+======
+10 Lags of Close
+	Цена закрытия в несколько предыдущих дней
+======
+11 Gaps between prev day close and this day open
+	Разность между ценой закрытия прошлого дня и открытия этого дня
+
 =====
 Файл Options:
 =====
