@@ -69,9 +69,11 @@ Expected dividend value for ex-right date. This value is recorded 2 business day
 
 ДВ 0105:- зачем тогда пункт а?
 ВП 0105:- чем больше дивиденды, тем сильнее падает акция после отсечки
+ВП 0405:- реализовано
 =======
 8 Day of the week
 	День недели дня каждого дня
+ВП 0405:- реализовано
 ======	
 9 Log-prices
 	Натуральный логарифм всех цен (Min, Max, Open, Close)
