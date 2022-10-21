@@ -1,5 +1,5 @@
 archive/
-files/
+data/
 .DS_Store
 .ipynb_checkpoints
 features_ready_220507.parquet.gzip
